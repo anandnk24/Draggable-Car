@@ -9,5 +9,3 @@ Utilized draggable widget of jQuery User Interface.
 
 
 Below is a screenshot of the car:
-
-![Draggable Car Screenshot](/Macintosh HD/Users/akannappan/Desktop/Draggable Car Screenshot.png "Draggable Car")
